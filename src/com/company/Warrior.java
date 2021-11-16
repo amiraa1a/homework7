@@ -6,7 +6,7 @@ public class Warrior extends Hero{
         setHealth(280);
         setDamage(56);
         setAbilityType("лучший удар");
-        System.out.println("вариор" + getHealth() +"hp" + " " + getDamage() + "дамаг вариора" + " " + getAbilityType() + "использовал силу");
+        System.out.println("вариор" + getHealth() +"hp" + " " + getDamage() + "дамаг вариора" + " " + getAbilityType() +  " " + "использовал силу");
 
 
     }
